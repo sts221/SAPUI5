@@ -1,0 +1,15 @@
+{
+	"Type":"sap.ui.core.mvc.JSONView",
+	"controllerName":"sapux05_1.JSONView",
+	"content": [{
+	    "Type": "sap.ui.commons.Button",
+	    "id": "jsonViewBtnPress",
+	    "press": "jsonViewBtnPress",
+	    "text" : "JSON View Button"
+	}, 
+	{
+	"Type": "sap.ui.commons.Button",
+	    "id": "jsonViewBtnPress1",
+	    "text" : "JSON View Button"
+	    }]
+}
