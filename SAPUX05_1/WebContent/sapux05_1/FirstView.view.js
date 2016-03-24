@@ -45,6 +45,7 @@ sap.ui.jsview("sapux05_1.FirstView", {
 
 		// Create content for the UI Area "content"
 		// CREATE PANEL FIRST
+		// Git text
 		var oPanel = new sap.ui.commons.Panel("Panel_1", {
 			text : "Enter Data",
 			width : "600px"
